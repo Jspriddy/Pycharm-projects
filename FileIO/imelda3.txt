@@ -1,0 +1,25 @@
+('More Mayhem', 'Imelda May', '2011', ((1, 'Pulling the Rug'), (2, 'Psycho'), (3, 'Mayhem'), (4, 'Kentish Town Waltz')))
+1 times 2 equals 22 times 2 equals 43 times 2 equals 64 times 2 equals 85 times 2 equals 106 times 2 equals 127 times 2 equals 148 times 2 equals 169 times 2 equals 1810 times 2 equals 2011 times 2 equals 2212 times 2 equals 241 times 2 equals 2
+2 times 2 equals 4
+3 times 2 equals 6
+4 times 2 equals 8
+5 times 2 equals 10
+6 times 2 equals 12
+7 times 2 equals 14
+8 times 2 equals 16
+9 times 2 equals 18
+10 times 2 equals 20
+11 times 2 equals 22
+12 times 2 equals 24
+1 times 2 equals 2
+2 times 2 equals 4
+3 times 2 equals 6
+4 times 2 equals 8
+5 times 2 equals 10
+6 times 2 equals 12
+7 times 2 equals 14
+8 times 2 equals 16
+9 times 2 equals 18
+10 times 2 equals 20
+11 times 2 equals 22
+12 times 2 equals 24
