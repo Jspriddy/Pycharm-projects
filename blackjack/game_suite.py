@@ -9,10 +9,15 @@ for key, game in games.items():
     print(f"{key}: {game}")
 
 while 1:
-    for key in games.keys():
-        play_game = input("> ")
-        if play_game in key:
-            chosen_game = games[play_game]
-            chosen_game = chosen_game.lower()
-            command = f"{chosen_game}.play()"
-            exec(command)
+    play_game = input("> ")
+    if play_game in games.keys():
+        chosen_game = games[play_game]
+        chosen_game = chosen_game.lower()
+        command = f"{chosen_game}.play()"
+        exec(command)
+    if play_game == 'q':
+        break
+    else:
+        print("Please input the number of the game you would like to play or \'q\' to quit:")
+
+
